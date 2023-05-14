@@ -1,0 +1,183 @@
+docker ps -a
+docker pull eqalpha/keydb
+sudo apt  install docker.io
+docker pull eqalpha/keydb
+sudo docker pull eqalpha/keydb
+docker \
+docker 
+docker-compose
+sudo apt  install docker-compose
+docker ps -a
+sudo docker ps -a
+docker images
+docker images -ls
+sudo docker images ls
+docker run --name some-keydb -d eqalpha/keydb
+sudo docker run --name bse-equities-data-keydb -d eqalpha/keydb
+sudo docker images ls
+sudo docker ls images ls
+sudo dockerimages
+sudo docker images
+docker ps -a
+sudo docker ps -a
+docker exec -it bse-equities-data-keydb /bin/sh
+sudo docker exec -it bse-equities-data-keydb /bin/sh
+docker ps -a
+sudo docker ps -a
+docker logs -f bse-equities-data-keydb
+sudo docker logs -f bse-equities-data-keydb
+docker compose -v
+docker-compose -v
+sudo docker run hello-world
+sudo docker run -id hello-world
+sudo docker run -it hello-world
+sudo docker ps -a
+sudo docker run hello-world --name aa
+sudo docker run -name aa hello-world
+sudo docker run --name aa hello-world
+sudo docker ps -a
+docker ps -a
+sudo docker ps -a
+sudo docker $(docker ps -aq)
+sudo docker stop $(docker ps -aq)
+sudo docker stop $(docker -aq)
+sudo docker stop $(docker -a -q)
+sudo docker stop $(docker ps -a -q)
+sudo docker stop $(sudo docker ps -a -q)
+sudo docker ps -a
+sudo docker rm $(sudo docker ps -a -q)
+sudo docker ps -a
+sudo docker image ls
+sudo docker images
+sudo docker volume ls 
+sudo docker volumes
+sudo docker volumes ls
+sudo docker volume ls
+sudo docker network ls
+docker ps -s
+sudo docker ps -s
+sudo docker run --name bse-equities-data-keydb -d eqalpha/keydb
+sudo docker ps -s
+sudo docker system df
+docker image prune
+sudo docker image prune
+sudo docker system df
+sudo docker ps -a
+sudo docker run busybox echo "hello docker"
+sudo docker ps -a
+sudo docker start -a ccb5d2037587 echo "now here" "now again here
+sudo docker start -a ccb5d2037587 echo "now here" "now again here"
+sudo docker start -a ccb5d2037587 echo "now here"
+sudo docker start busybox echo "now here"
+sudo docker run busybox echo "now here"
+sudo docker ps -a
+docker system prune
+sudo docker system prune
+sudo docker ps -all
+docker images
+sudo docker images
+docker ps
+sudo groupadd docker
+sudo usermod -aG docker $USER
+docker ps
+sudo usermod -aG docker $USER
+docker ps
+sudo usermod -aG docker ${USER}
+docker ps
+getent group docker
+sudo usermod -aG docker dkgosql
+getent group docker
+awk -F':' '/docker/{print $4}' /etc/group
+sudo ls -la /var/run/docker.sock
+sudo chmod 666 /var/run/docker.sock
+getent group docker
+ls -la /var/run/docker.sock
+docker ps
+docker ps -a
+docker create busybox echo hi there 03may2023
+docker ps 
+docker ps -a
+docker start pensive_sanderson
+docker ps -a
+docker create busybox echo hi there 03may2023 sr1
+docker start 329bc8881ec48ccda21d6e407c11c32a2f1747638b9cc998bb173f7646c0afcc
+docker logs 329bc8881ec48ccda21d6e407c11c32a2f1747638b9cc998bb173f7646c0afcc
+sudo docker -v
+sudo docker-compose -v
+docker-compose up
+docker run 
+docker run  .
+docker build .
+docker images
+docker -rf rmi
+docker rmi images
+docker image prune
+docker build .
+docker images
+docker rmi $(docker images -q)
+docker ps -a
+docker stop $(docker ps -a -q)
+docker rmi $(docker images -q)
+docker ps -a
+docker stop $(docker ps -q -s)
+docker stop $(docker ps -a -q)
+docker rm $(docker ps -a -q)
+docker ps -a
+docker rmi $(docker images -q)
+docker ps -a
+docker images
+docker build .
+docker images
+docker build . -t equity-dataprocess-redis-server
+docker images
+docker exec -it equity-dataprocess-redis-server sh
+docker run equity-dataprocess-redis-server
+docker images
+docker ps -a
+docker start equity-dataprocess-redis-server
+docker run equity-dataprocess-redis-server
+docker run equity-dataprocess-redis-server -it /bin/sh
+docker run exec -it equity-dataprocess-redis-server /bin/sh
+docker exec -it equity-dataprocess-redis-server /bin/sh
+docker ps -a
+docker image prune
+docker stop $(docker ps -aq)
+docker rm $(docker ps -aq)
+docker image prune
+docker rmi $(docker images -q)
+docker rmi $(docker images -q) -f
+docker image ls
+docker build .
+docker image ls
+docker image prune
+docker build . -t equity-dataprocess-redis-server
+docker image ls
+docker build . -t equity-dataprocess-redis-server
+docker image ls
+docker build .
+docker image ls
+docker run 2cc614bcf271
+cd /mnt/hdd500pc114/ITVProjectList/dkgosql-learning-docker05may2023/equity-prgs/equityweb
+docker images
+docker build .
+docker build -f Dockerfile.dev .
+docker run 4fe31066b4d7
+docker run -p 3003:3000 4fe31066b4d7
+docker build -f Dockerfile.dev .
+docker run -p 3003:3000 4fe31066b4d7
+docker run -p 3003:3000 5333da10364b
+history > grep docker
+history | grep docker > learn.docker.command.txt
+
+docker run -p 3004:3000 -v app/node_modules -v $(pwd):/app bbfca2de9115
+
+docker run -p 3003:3000 bbfca2de9115
+
+
+
+docker-compose --env-file .env.dev up
+
+
+
+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
+

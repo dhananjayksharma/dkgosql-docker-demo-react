@@ -1,0 +1,5 @@
+FROM golang:1.17.0-alpine
+WORKDIR '/app'
+COPY main.go .
+COPY . .
+CMD ["go", "run", "main.go"]
